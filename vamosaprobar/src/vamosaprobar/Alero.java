@@ -19,6 +19,6 @@ public class Alero extends Jugador {
     }
 
     public int Damepuntos() {
-        return this.puntos;
+        return this.puntos+1;
     }
 }
